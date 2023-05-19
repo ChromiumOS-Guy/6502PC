@@ -6,7 +6,7 @@ also I did not order the PCB so I don't know if it works, don't hold me responsi
 This contains surface mount compunents!! if you're not skilled with soldering I recommend paying for an assembly service.
 ### 3D View:
 #### Top:
-![image](https://github.com/ChromiumOS-Guy/6502PC/assets/57168079/98b340f3-616f-410b-b250-78c003d1ed4a)
+![image](https://github.com/ChromiumOS-Guy/6502PC/assets/57168079/5d7afb78-80ee-49bc-b181-38e8a260d32d)
 #### Buttom:
 ![image](https://github.com/ChromiumOS-Guy/6502PC/assets/57168079/cc954a61-e98a-4b84-ae67-ba8786aa9903)
 ### Specs chart:
