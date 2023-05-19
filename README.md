@@ -3,7 +3,7 @@
 This is my first time designing a 4-layer PCB, and my first time designing a computer,
 also I did not order the PCB so I don't know if it works, don't hold me responsible.
 
-This contains surface mount compunents if you're not skilled with soldering I recommend paying for an assembly service!!
+This contains surface mount compunents!! if you're not skilled with soldering I recommend paying for an assembly service.
 
 ### Specs chart:
 NAME | PART NUMBER | Datasheet
