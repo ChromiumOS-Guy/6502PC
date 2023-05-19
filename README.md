@@ -9,6 +9,9 @@ This contains surface mount compunents!! if you're not skilled with soldering I 
 ![image](https://github.com/ChromiumOS-Guy/6502PC/assets/57168079/5d7afb78-80ee-49bc-b181-38e8a260d32d)
 #### Buttom:
 ![image](https://github.com/ChromiumOS-Guy/6502PC/assets/57168079/cc954a61-e98a-4b84-ae67-ba8786aa9903)
+### PCB View:
+![PCB View](https://github.com/ChromiumOS-Guy/6502PC/assets/57168079/0bbcff7c-d17d-4600-86cc-6bbc89bb51d9)
+
 ### Specs chart:
 NAME | PART NUMBER | Datasheet
 ------------- | ------------- | -------------
