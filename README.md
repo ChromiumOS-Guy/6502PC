@@ -3,7 +3,7 @@
 **This is my first time designing a 4-layer PCB, and my first time designing a computer,
 also I did not order the PCB so I don't know if it works, don't hold me responsible.**
 
-**This contains surface mount compunents!! if you're not skilled with soldering I recommend paying for an a assembly service.**
+**This contains surface mount compunents!! if you're not skilled with soldering I recommend paying for an assembly service.**
 ### 3D View:
 #### Top:
 ![image](https://github.com/ChromiumOS-Guy/6502PC/assets/57168079/5d7afb78-80ee-49bc-b181-38e8a260d32d)
