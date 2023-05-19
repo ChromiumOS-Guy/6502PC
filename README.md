@@ -11,7 +11,7 @@ VIA | W65C22S6TPG-14 | https://componentsearchengine.com/Datasheets/1/W65C22S6TP
 ACIA | W65C51N6TPG-14 | https://componentsearchengine.com/Datasheets/1/W65C51N6TPG-14.pdf
 ROM | AT28C256-15PU | https://www.mouser.com/datasheet/2/268/doc0006-1108095.pdf
 ### Address Table:
-PART NUMBER | BINARY-ADDRESS | HEX-ADDRESS | ADDRESS&CONTROL
+PART NUMBER | BINARY-ADDRESS | HEX-ADDRESS | REGISTER SELECT
 ------------- | ------------- | ------------- | -------------
 AS6C62256-55PCN(RAM) | 00(XXXXXXXXXXXXXX) | 0x0000-0x3FFF | A0-14(not fully used)
 USER(Socket near CPU for adding new IC) | 0100(XXXXXXXXXXXX) | 0x4000-0x4FFF | Unknown
