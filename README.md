@@ -1,7 +1,9 @@
 # 6502 Based Personal Computer
 ### Warnings!:
 This is my first time designing a 4-layer PCB, and my first time designing a computer,
-also I did not order the PCB so I don't know if it works, don't hold me responsible
+also I did not order the PCB so I don't know if it works, don't hold me responsible.
+This contains surface mount compunents if you're not skilled with soldering I recommend paying for an assembly service!!
+
 ### Specs chart:
 NAME | PART NUMBER | Datasheet
 ------------- | ------------- | -------------
@@ -19,3 +21,6 @@ W65C22S6TPG-14(VIA) | 0101XXXXXXXX(XXXX) | 0x5000-0x5FFF | RS0-3 = A0-3
 W65C22S6TPG-14(VIA) | 0110XXXXXXXX(XXXX) | 0x6000-0x6FFF | RS0-3 = A0-3
 W65C51N6TPG-14(ACIA) | 0111XXXXXXXXXX(XX) | 0x7000-0x7FFF | RS0-1 = A0-1
 AT28C256-15PU(ROM) | 1(XXXXXXXXXXXXXXX) | 0x8000-0xFFFF | A0-14
+### TIPS:
+if you're going to make this I strongly recommend reading at least the schematic,
+also you'll need to buy the ROM (AT28C256-15PU) separately (if you're using an assembly service)
