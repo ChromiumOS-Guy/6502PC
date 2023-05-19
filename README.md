@@ -5,11 +5,11 @@ also I did not order the PCB so I don't know if it works, don't hold me responsi
 ### Specs chart:
 NAME | PART NUMBER | Datasheet
 ------------- | ------------- | -------------
-CPU | W65C02S6TPG-14 | https://componentsearchengine.com/Datasheets/1/W65C02S6TPG-14.pdf
-RAM | AS6C62256-55PCN | https://componentsearchengine.com/Datasheets/1/AS6C62256-55PCN.pdf
-VIA | W65C22S6TPG-14 | https://componentsearchengine.com/Datasheets/1/W65C22S6TPG-14.pdf
-ACIA | W65C51N6TPG-14 | https://componentsearchengine.com/Datasheets/1/W65C51N6TPG-14.pdf
-ROM | AT28C256-15PU | https://www.mouser.com/datasheet/2/268/doc0006-1108095.pdf
+CPU(10Mhz) | W65C02S6TPG-14 | https://componentsearchengine.com/Datasheets/1/W65C02S6TPG-14.pdf
+RAM(16Kb) | AS6C62256-55PCN | https://componentsearchengine.com/Datasheets/1/AS6C62256-55PCN.pdf
+VIA(IO) | W65C22S6TPG-14 | https://componentsearchengine.com/Datasheets/1/W65C22S6TPG-14.pdf
+ACIA(UART) | W65C51N6TPG-14 | https://componentsearchengine.com/Datasheets/1/W65C51N6TPG-14.pdf
+ROM(32Kb) | AT28C256-15PU | https://www.mouser.com/datasheet/2/268/doc0006-1108095.pdf
 ### Address Table:
 PART NUMBER | BINARY-ADDRESS | HEX-ADDRESS | REGISTER SELECT
 ------------- | ------------- | ------------- | -------------
