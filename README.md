@@ -22,5 +22,7 @@ W65C22S6TPG-14(VIA) | 0110XXXXXXXX(XXXX) | 0x6000-0x6FFF | RS0-3 = A0-3
 W65C51N6TPG-14(ACIA) | 0111XXXXXXXXXX(XX) | 0x7000-0x7FFF | RS0-1 = A0-1
 AT28C256-15PU(ROM) | 1(XXXXXXXXXXXXXXX) | 0x8000-0xFFFF | A0-14
 ### TIPS:
-if you're going to make this I strongly recommend reading at least the schematic,
-also you'll need to buy the ROM (AT28C256-15PU) separately (if you're using an assembly service)
+If you're going to make this I strongly recommend reading at least the schematic,
+also you'll need to buy the ROM (AT28C256-15PU) separately if you're using an assembly service.
+Don't forget to buy an EPROM programmer that supports this specific EPROM if you don't already have one,
+also don't forget to buy a USB to RS232 Interface Adapter if you don't already have one (optional but highly recommended)
