@@ -4,6 +4,8 @@ This is my first time designing a 4-layer PCB, and my first time designing a com
 also I did not order the PCB so I don't know if it works, don't hold me responsible.
 
 This contains surface mount compunents!! if you're not skilled with soldering I recommend paying for an assembly service.
+### View:
+#### Top:
 
 ### Specs chart:
 NAME | PART NUMBER | Datasheet
